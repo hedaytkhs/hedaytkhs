@@ -1,5 +1,5 @@
 # Who is hedaytkhs?
-
+将来の夢というか、今は構想段階ですが、M5Stackやラズパイを使ったり、Azureのクラウドサービスを使って、シニア世代やこどものためのプログラミング体験教室を地域やバーチャル空間でやってみたいと考え中です。
 ## Interests
 ### Azure PaaS Services
 ### Raspbery Pi
