@@ -4,6 +4,10 @@
 ### Azure PaaS Services
 ### Raspbery Pi
 ### M5 Stack
+### M5 Stack
+### M5 GO
+### ESP 32
+### Scratch (プログラミング教育)
 
 ## Stats
  <p align="left">
