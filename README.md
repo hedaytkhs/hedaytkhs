@@ -1,15 +1,31 @@
 # Who is hedaytkhs?
 将来の夢というか、今は構想段階ですが、M5Stackやラズパイを使ったり、Azureのクラウドサービスを使って、シニア世代やこどものためのプログラミングやIoTの体験教室(営利と非営利の活動)を地域やバーチャル空間でやってみたいと考え中です。
-## Interests
+
+## Interest
+以下のようなテーマに取り組んでいます。
+
 ### Azure PaaS Services
+Azure の PaaS サービスを中心に実際に動かしてみるときの Tips のようなものをまとめていきます。
+
 ### Raspbery Pi
+情報収集して少し触ったことがあるという段階です
+
 ### M5 Stack
-### M5 Stack
+情報収集して少し触ったことがあるという段階です
+
 ### M5 GO
+情報収集して少し触ったことがあるという段階です
+
 ### ESP 32
+情報収集して少し触ったことがあるという段階です
+
 ### Scratch (プログラミング教育)
 
-## Stats
+### 原稿執筆
+Git を使った原稿執筆に取り組んでいます
+
+## このサイトについて
+
  <p align="left">
   <a href="https://github.com/hedaytkhs">
     <img height="20" src="https://komarev.com/ghpvc/?username=hedaytkhs" />
