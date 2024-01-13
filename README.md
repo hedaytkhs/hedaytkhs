@@ -10,13 +10,13 @@ Azure の PaaS サービスを中心に実際に動かしてみるときの 開�
 ## 現在のコンテンツ
 開発初心者向けに、開発環境でおこなう以下のような基本的な操作についての Tips をまとめています。
 
-### [GitHub 初めの一歩](https://github.com/hedaytkhs/GitHubGetStarted)) 
+### [GitHub 初めの一歩](https://github.com/hedaytkhs/GitHubGetStarted)
 日々の業務や学習のなかで GitHub を積極的に使っていくための基本について紹介します
 
-### Docker 初めの一歩
+### [Docker 初めの一歩](https://github.com/hedaytkhs/DockerGetStarted)
 まずは、Docker コンテナーを動かして、Docker の基本を学んでいくことを紹介します
 
-### Git 初めの一歩
+### [Git 初めの一歩](https://github.com/hedaytkhs/GitGetStarted)
 チュートリアルに書かれている手順通りに、何となく git を使い始めたけれども、実はあまり勉強したことがないという方に向けて git の基本を勉強するための情報源を紹介します。
 
 
