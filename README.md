@@ -6,10 +6,6 @@
 ## Interest
 以下のようなテーマに取り組んでいます。
 
-### Azure PaaS Services
-Azure の PaaS サービスを中心に実際に動かしてみるときの 開発初心者向けの Tips やサンプルをリポジトリにまとめていきます。
-
-## 現在のコンテンツ
 開発初心者向けに、開発環境でおこなう以下のような基本的な操作についての Tips をまとめています。
 
 ### [GitHub 初めの一歩](https://github.com/hedaytkhs/GitHubGetStarted)
@@ -25,6 +21,9 @@ Azure の PaaS サービスを中心に実際に動かしてみるときの 開�
 Azure App Service や Azure Functions のリソース作成を自動化するARMテンプレートを使って、Azure 上に素早くリソースを作成できるようになることを目的に ARM テンプレートの利用方法など紹介します。
 
 ## 今後やっていきたいこと
+
+### Azure PaaS Services
+Azure の PaaS サービスを中心に実際に動かしてみるときの 開発初心者向けの Tips やサンプルをリポジトリにまとめていきます。
 
 ### Raspbery Pi
 情報収集して少し触ったことがあるという段階です
@@ -62,7 +61,7 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 
 
 ### 原稿執筆
-Git や Github を活用した原稿執筆や知的創造に取り組んでいます
+Git や Github を活用した原稿執筆に取り組んでいます
 
 ## このサイトについて
 
