@@ -18,7 +18,7 @@
 チュートリアルに書かれている手順通りに、何となく git を使い始めたけれども、実はあまり勉強したことがないという方に向けて git の基本を勉強するための情報源を紹介します。
 
 ### [ARM / Bicep はじめの一歩](https://github.com/hedaytkhs/ARMGetStarted#armgetstarted)
-Azure App Service や Azure Functions のリソース作成を自動化するARMテンプレートを使って、Azure 上に素早くリソースを作成できるようになることを目的に ARM テンプレートの利用方法など紹介します。
+Azure App Service や Azure Functions のリソース作成を自動化するARM / Bicep テンプレートを使って、Azure 上に素早くリソースを作成できるようになることを目的に ARM テンプレートの利用方法など紹介します。
 
 ## 今後やっていきたいこと
 
